@@ -8,6 +8,7 @@
         "sourceType": "module"
     },
     "rules": {
-        "no-alert": "error"
+        "no-alert": "error",
+        "no-array-constructor": "error"
     }
 }
