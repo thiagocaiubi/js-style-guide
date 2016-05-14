@@ -25,6 +25,7 @@
         "no-new-func": "error",
         "no-new-object": "error",
         "no-new-wrappers": "error",
-        "no-octal-escape": "error"
+        "no-octal-escape": "error",
+        "no-process-exit": "error"
     }
 }
