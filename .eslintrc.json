@@ -29,6 +29,7 @@
         "no-process-exit": "error",
         "no-proto": "error",
         "no-return-assign": "error",
-        "no-script-url": "error"
+        "no-script-url": "error",
+        "no-sequences": "error"
     }
 }
