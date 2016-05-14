@@ -26,6 +26,7 @@
         "no-new-object": "error",
         "no-new-wrappers": "error",
         "no-octal-escape": "error",
-        "no-process-exit": "error"
+        "no-process-exit": "error",
+        "no-proto": "error"
     }
 }
