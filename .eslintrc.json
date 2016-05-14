@@ -9,6 +9,7 @@
     },
     "rules": {
         "no-alert": "error",
-        "no-array-constructor": "error"
+        "no-array-constructor": "error",
+        "no-caller": "error"
     }
 }
