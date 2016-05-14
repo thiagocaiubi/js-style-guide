@@ -16,6 +16,7 @@
         "no-extra-bind": "error",
         "no-implied-eval": "error",
         "no-iterator": "error",
-        "no-label-var": "error"
+        "no-label-var": "error",
+        "no-lone-blocks": "error"
     }
 }
