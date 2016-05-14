@@ -28,6 +28,7 @@
         "no-octal-escape": "error",
         "no-process-exit": "error",
         "no-proto": "error",
-        "no-return-assign": "error"
+        "no-return-assign": "error",
+        "no-script-url": "error"
     }
 }
