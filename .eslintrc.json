@@ -15,6 +15,7 @@
         "no-extend-native": "error",
         "no-extra-bind": "error",
         "no-implied-eval": "error",
-        "no-iterator": "error"
+        "no-iterator": "error",
+        "no-label-var": "error"
     }
 }
