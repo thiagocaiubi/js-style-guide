@@ -27,6 +27,7 @@
         "no-new-wrappers": "error",
         "no-octal-escape": "error",
         "no-process-exit": "error",
-        "no-proto": "error"
+        "no-proto": "error",
+        "no-return-assign": "error"
     }
 }
