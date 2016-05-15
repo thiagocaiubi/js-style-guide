@@ -43,6 +43,7 @@
         "no-trailing-spaces": "error",
         "no-undef-init": "error",
         "no-underscore-dangle": "error",
-        "no-unused-expressions": "error"
+        "no-unused-expressions": "error",
+        "no-use-before-define": "error"
     }
 }
