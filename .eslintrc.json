@@ -12,6 +12,7 @@
         "comma-spacing": "error",
         "consistent-return": "error",
         "curly": "error",
+        "dot-notation": "error",
         "no-alert": "error",
         "no-array-constructor": "error",
         "no-caller": "error",
