@@ -38,6 +38,7 @@
                 "hoist": "all"
             }
         ],
-        "no-shadow-restricted-name": "error"
+        "no-shadow-restricted-name": "error",
+        "no-spaced-func": "error"
     }
 }
