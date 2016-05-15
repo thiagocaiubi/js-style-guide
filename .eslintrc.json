@@ -11,6 +11,7 @@
         "camelcase": "error",
         "comma-spacing": "error",
         "consistent-return": "error",
+        "curly": "error",
         "no-alert": "error",
         "no-array-constructor": "error",
         "no-caller": "error",
