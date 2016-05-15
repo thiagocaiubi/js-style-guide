@@ -39,6 +39,7 @@
             }
         ],
         "no-shadow-restricted-name": "error",
-        "no-spaced-func": "error"
+        "no-spaced-func": "error",
+        "no-trailing-spaces": "error"
     }
 }
