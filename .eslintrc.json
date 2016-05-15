@@ -8,6 +8,7 @@
         "sourceType": "module"
     },
     "rules": {
+        "camelcase": "error",
         "no-alert": "error",
         "no-array-constructor": "error",
         "no-caller": "error",
