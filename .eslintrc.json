@@ -43,7 +43,7 @@
                 "hoist": "all"
             }
         ],
-        "no-shadow-restricted-name": "error",
+        "no-shadow-restricted-names": "error",
         "no-spaced-func": "error",
         "no-trailing-spaces": "error",
         "no-undef-init": "error",
