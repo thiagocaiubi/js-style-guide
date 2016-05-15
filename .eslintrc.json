@@ -13,6 +13,7 @@
         "consistent-return": "error",
         "curly": "error",
         "dot-notation": "error",
+        "eol-last": "error",
         "no-alert": "error",
         "no-array-constructor": "error",
         "no-caller": "error",
