@@ -30,6 +30,13 @@
         "no-proto": "error",
         "no-return-assign": "error",
         "no-script-url": "error",
-        "no-sequences": "error"
+        "no-sequences": "error",
+        "no-shadow": [
+            "error",
+            {
+                "builtinGlobals": true,
+                "hoist": "all"
+            }
+        ]
     }
 }
