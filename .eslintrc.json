@@ -37,6 +37,7 @@
                 "builtinGlobals": true,
                 "hoist": "all"
             }
-        ]
+        ],
+        "no-shadow-restricted-name": "error"
     }
 }
