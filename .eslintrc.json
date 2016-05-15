@@ -10,6 +10,7 @@
     "rules": {
         "camelcase": "error",
         "comma-spacing": "error",
+        "consistent-return": "error",
         "no-alert": "error",
         "no-array-constructor": "error",
         "no-caller": "error",
